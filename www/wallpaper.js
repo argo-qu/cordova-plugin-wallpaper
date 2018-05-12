@@ -38,7 +38,7 @@ function setBase64(base64, callback) {
     if(base64) {
         cordova.exec(successCallback, errorCallback, services, action, dependentProperties);
     }
-}
+};
 
 wallpaper.prototype.setImageBase64 = function(base64, callback) {
     setBase64(base64, callback);
