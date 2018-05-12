@@ -3,11 +3,6 @@ Title: Set Wallpaper
 Description: Set an image within the application cordova as wallpaper.
 ---
 
-[![npm version][version-img]][version-url]
-
-[![Code Climate][cc-img]][cc-url]
-[![Issue Count][cc-issues-img]][cc-issues-url]
-
 |Android|
 |:-:|
 |[![Build Status][android-img]][android-url]|
@@ -23,14 +18,9 @@ This simple plugin gives you the ability of setting the systems wallpaper, eithe
 4. [Supported Platforms](#supported-platforms)
 
 ## Installation
-stable npm package:
-```
-cordova plugin add cordova-plugin-wallpaper
-```
 
-maybe unstable GitHub-repository:
 ```
-cordova plugin add https://github.com/fbsanches/cordova-plugin-wallpaper.git
+cordova plugin add https://github.com/argo-qu/cordova-plugin-wallpaper.git
 ```
 
 ## Usage
